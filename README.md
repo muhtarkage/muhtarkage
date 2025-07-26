@@ -29,8 +29,6 @@ I automate, collaborate, react, review — and do it all with flair ✨
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
 
---->
-
 ## 👀 Profile Views
 
 <p align="center">
