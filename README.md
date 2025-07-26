@@ -31,12 +31,6 @@ I automate, collaborate, react, review — and do it all with flair ✨
 
 --->
 
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhtarkage&theme=darkhub&column=7)]
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
